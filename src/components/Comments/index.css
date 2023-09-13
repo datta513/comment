@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.main {
+  padding: 40px;
+}
+.comment-and-image {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: solid;
+}
+.pad {
+  margin: 10px;
+}
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+}
+img {
+  height: 40vh;
+  width: 20vw;
+}
+.inpu {
+  display: flex;
+  flex-direction: column;
+}
+.ftr {
+  background-color: blueviolet;
+  padding: 5px;
+  color: white;
+}
